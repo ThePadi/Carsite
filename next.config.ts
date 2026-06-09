@@ -4,8 +4,12 @@ const nextConfig: NextConfig = {
   output: 'export',
   trailingSlash: true,
   basePath: '/Carsite',
+  env: {
+    NEXT_PUBLIC_BASE_PATH: '/Carsite',
+  },
   images: {
-    unoptimized: true,
+    loader: 'custom',
+    loaderFile: './src/lib/imageLoader.ts',
   },
 }
 
