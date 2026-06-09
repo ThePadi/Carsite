@@ -37,10 +37,10 @@ export function Navbar() {
             className="text-xl font-bold tracking-[0.15em] text-[#f0ede8] group-hover:text-[#c9a96e] transition-colors"
             style={{ fontFamily: 'var(--font-playfair)' }}
           >
-            MOKAS
+            OC MOTORS
           </span>
           <span className="text-[9px] tracking-[0.35em] text-[#c9a96e] uppercase font-medium">
-            Motors · Newquay
+            Newquay · Cornwall
           </span>
         </Link>
 

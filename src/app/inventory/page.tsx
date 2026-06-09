@@ -3,7 +3,7 @@ import { getAllCars } from '@/lib/cars'
 import { InventoryGrid } from '@/components/inventory/InventoryGrid'
 
 export const metadata = {
-  title: 'Stock | Mokas Motors — Premium Used Cars Cornwall',
+  title: 'Stock | OC Motors Newquay — Premium Used Cars Cornwall',
   description: 'Browse our full inventory of hand-picked premium used cars in Newquay, Cornwall.',
 }
 

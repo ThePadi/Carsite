@@ -12,10 +12,10 @@ export function Footer() {
                 className="text-2xl font-bold tracking-[0.15em] text-[#f0ede8]"
                 style={{ fontFamily: 'var(--font-playfair)' }}
               >
-                MOKAS
+                OC MOTORS
               </span>
               <span className="block text-[9px] tracking-[0.35em] text-[#c9a96e] uppercase font-medium mt-0.5">
-                Motors · Newquay
+                Newquay · Cornwall
               </span>
             </div>
             <p className="text-sm text-[#666] leading-relaxed max-w-xs">
@@ -58,7 +58,7 @@ export function Footer() {
               </li>
               <li className="flex items-center gap-3 text-sm text-[#666]">
                 <Mail size={14} className="shrink-0 text-[#c9a96e]" />
-                <a href="mailto:hello@mokasmotors.co.uk" className="hover:text-[#f0ede8] transition-colors">hello@mokasmotors.co.uk</a>
+                <a href="mailto:hello@ocmotorsnewquay.co.uk" className="hover:text-[#f0ede8] transition-colors">hello@ocmotorsnewquay.co.uk</a>
               </li>
             </ul>
             <div className="mt-4 text-sm text-[#555]">
@@ -70,7 +70,7 @@ export function Footer() {
         </div>
 
         <div className="border-t border-white/5 pt-6 flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-[#444]">
-          <p>© {new Date().getFullYear()} Mokas Motors Ltd. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} OC Motors Newquay Ltd. All rights reserved.</p>
           <p>Registered in England & Wales · FCA Authorised</p>
         </div>
       </div>
