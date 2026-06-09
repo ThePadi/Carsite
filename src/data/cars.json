@@ -1,0 +1,77 @@
+[
+  {
+    "id": "bmw-m3-2021",
+    "make": "BMW",
+    "model": "M3 Competition",
+    "year": 2021,
+    "mileage": 18400,
+    "price": 62995,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "colour": "Frozen Brooklyn Grey",
+    "engine": "3.0L Twin-Turbo Inline-6",
+    "power": "510 bhp",
+    "doors": 4,
+    "bodyType": "Saloon",
+    "images": ["/cars/bmw-m3/1.jpg","/cars/bmw-m3/2.jpg","/cars/bmw-m3/3.jpg","/cars/bmw-m3/4.jpg"],
+    "description": "An exceptional example of BMW's M3 Competition in the rare and desirable Frozen Brooklyn Grey. This car has been meticulously maintained with a full BMW service history and presents in stunning condition throughout. Equipped with the xDrive all-wheel-drive system, M Carbon seats, and the optional Laser headlights package. A truly head-turning machine that delivers supercar performance wrapped in a practical saloon body.",
+    "features": ["M Carbon Bucket Seats", "Laser Headlights", "Harman Kardon Sound", "M Driver Package", "Carbon Fibre Trim", "Heated Front Seats", "Head-Up Display", "Parking Assistant Plus"],
+    "comparables": [
+      { "source": "AutoTrader Cornwall", "price": 67500, "mileage": 12000 },
+      { "source": "Car Dealer Truro", "price": 64999, "mileage": 21000 },
+      { "source": "BMW Approved Exeter", "price": 71995, "mileage": 9500 },
+      { "source": "Private Sale Plymouth", "price": 59500, "mileage": 28000 },
+      { "source": "AutoTrader South West", "price": 65500, "mileage": 16800 }
+    ]
+  },
+  {
+    "id": "audi-rs6-2020",
+    "make": "Audi",
+    "model": "RS6 Avant",
+    "year": 2020,
+    "mileage": 31200,
+    "price": 74995,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "colour": "Nardo Grey",
+    "engine": "4.0L Twin-Turbo V8 TFSI",
+    "power": "600 bhp",
+    "doors": 5,
+    "bodyType": "Estate",
+    "images": ["/cars/audi-rs6/1.jpg","/cars/audi-rs6/2.jpg","/cars/audi-rs6/3.jpg","/cars/audi-rs6/4.jpg"],
+    "description": "The RS6 Avant is the ultimate expression of Audi's performance estate formula — a 600bhp missile disguised as a family car. This example finished in the iconic Nardo Grey with Black Pack is simply breathtaking. Full Audi service history, Carbon engine covers, Ceramic brakes, and the Dynamic Plus package ensure this is one of the finest RS6 Avants available in the South West.",
+    "features": ["Carbon Optic Pack", "Ceramic Brakes", "Matrix LED Headlights", "Bang & Olufsen 3D Sound", "Panoramic Sunroof", "Adaptive Air Suspension", "Night Vision Assistant", "RS Sport Exhaust"],
+    "comparables": [
+      { "source": "Audi Approved Exeter", "price": 82995, "mileage": 18000 },
+      { "source": "AutoTrader Cornwall", "price": 77500, "mileage": 28000 },
+      { "source": "Car Dealer Bristol", "price": 79995, "mileage": 25000 },
+      { "source": "Private Sale Devon", "price": 69500, "mileage": 41000 },
+      { "source": "AutoTrader South West", "price": 75999, "mileage": 33000 }
+    ]
+  },
+  {
+    "id": "porsche-911-2019",
+    "make": "Porsche",
+    "model": "911 Carrera S",
+    "year": 2019,
+    "mileage": 24800,
+    "price": 89995,
+    "fuelType": "Petrol",
+    "transmission": "Automatic",
+    "colour": "GT Silver Metallic",
+    "engine": "3.0L Twin-Turbo Flat-Six",
+    "power": "450 bhp",
+    "doors": 2,
+    "bodyType": "Coupe",
+    "images": ["/cars/porsche-911/1.jpg","/cars/porsche-911/2.jpg","/cars/porsche-911/3.jpg","/cars/porsche-911/4.jpg"],
+    "description": "A breathtaking 992-generation 911 Carrera S in the timeless GT Silver Metallic, specified with an outstanding array of options. This Porsche has been maintained to the highest standard with full Porsche service history and presents as new throughout. The Sport Chrono Package, PDCC, and rear-axle steering combine to make this one of the most capable 911s we've had the pleasure of offering.",
+    "features": ["Sport Chrono Package", "PASM Sport Suspension", "Rear Axle Steering", "PDCC Sport", "Porsche Dynamic Light System Plus", "Bose Surround Sound", "Privacy Glass", "18-Way Adaptive Sport Seats"],
+    "comparables": [
+      { "source": "Porsche Approved Exeter", "price": 98500, "mileage": 14000 },
+      { "source": "AutoTrader Cornwall", "price": 92000, "mileage": 21000 },
+      { "source": "Specialist Dealer Bristol", "price": 94995, "mileage": 19500 },
+      { "source": "Private Sale Devon", "price": 84000, "mileage": 31000 },
+      { "source": "AutoTrader South West", "price": 91500, "mileage": 26000 }
+    ]
+  }
+]
