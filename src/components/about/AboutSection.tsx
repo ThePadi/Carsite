@@ -70,7 +70,7 @@ export function AboutSection() {
             viewport={{ once: true }}
             className="text-[10px] tracking-[0.4em] uppercase text-[#c9a96e] font-medium mb-4"
           >
-            About Mokas Motors
+            About OC Motors Newquay
           </motion.p>
           <motion.h2
             initial={{ opacity: 0, y: 20 }}
@@ -89,7 +89,7 @@ export function AboutSection() {
             transition={{ delay: 0.2 }}
             className="mt-4 text-[#666] leading-relaxed"
           >
-            We started Mokas Motors because we were frustrated with the used car buying experience —
+            We started OC Motors Newquay because we were frustrated with the used car buying experience —
             hidden fees, inflated prices, and high-pressure sales tactics. We do things differently:
             complete transparency, fair prices backed by real local data, and a relaxed showroom
             in the heart of Newquay.

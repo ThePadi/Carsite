@@ -43,7 +43,7 @@ export function ContactSection() {
               {[
                 { icon: MapPin, label: 'Address', value: '123 Fore Street, Newquay, Cornwall, TR7 1AA', href: 'https://maps.google.com/?q=Newquay+Cornwall' },
                 { icon: Phone, label: 'Phone', value: '01637 000 000', href: 'tel:+441637000000' },
-                { icon: Mail, label: 'Email', value: 'hello@mokasmotors.co.uk', href: 'mailto:hello@mokasmotors.co.uk' },
+                { icon: Mail, label: 'Email', value: 'hello@ocmotorsnewquay.co.uk', href: 'mailto:hello@ocmotorsnewquay.co.uk' },
               ].map(({ icon: Icon, label, value, href }) => (
                 <motion.a
                   key={label}

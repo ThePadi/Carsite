@@ -14,7 +14,7 @@ export async function generateMetadata({ params }: { params: Promise<{ id: strin
   const car = getCarById(id)
   if (!car) return {}
   return {
-    title: `${car.year} ${car.make} ${car.model} | Mokas Motors`,
+    title: `${car.year} ${car.make} ${car.model} | OC Motors Newquay`,
     description: `${formatPrice(car.price)} · ${formatMileage(car.mileage)} · ${car.fuelType} · ${car.transmission}. ${car.description.slice(0, 150)}...`,
   }
 }

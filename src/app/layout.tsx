@@ -18,7 +18,7 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: 'Mokas Motors | Premium Used Cars — Newquay, Cornwall',
+  title: 'OC MOTORS NEWQUAY | Premium Used Cars — Cornwall',
   description: 'Hand-picked, premium used cars in Newquay, Cornwall. Transparent pricing with local market analysis. Find your next car with confidence.',
 }
 
